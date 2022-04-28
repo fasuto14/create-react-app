@@ -1,3 +1,8 @@
+# Cloning a custom react app template
+
+This is a template with my preferred folder configuration.
+You need to delete the .git and initialize your own repository.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
